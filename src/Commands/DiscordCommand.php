@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Wulfheart\Discord\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class DiscordCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'enhanced-discord-for-laravel';
 
     public $description = 'My command';
 
